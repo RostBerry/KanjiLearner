@@ -4,7 +4,7 @@ use serde::{Deserialize, Serialize};
 use serde_json::{self, Result};
 use std::fs;
 
-#[derive(Serialize, Deserialize)]
+#[derive(Serialize, Deserialize)] 
 struct KanjiInfo {
     ids: Vec<u16>,
     occasions: u16
