@@ -1,148 +1,16 @@
 {
   "items": {
-    "紙": {
-      "ids": [
-        50
-      ],
-      "occasions": 1
-    },
-    "直": {
-      "ids": [
-        24
-      ],
-      "occasions": 1
-    },
-    "鉄": {
-      "ids": [
-        149
-      ],
-      "occasions": 1
-    },
-    "花": {
-      "ids": [
-        10
-      ],
-      "occasions": 1
-    },
-    "決": {
-      "ids": [
-        37
-      ],
-      "occasions": 1
-    },
-    "線": {
-      "ids": [
-        29
-      ],
-      "occasions": 1
-    },
-    "速": {
-      "ids": [
-        14
-      ],
-      "occasions": 1
-    },
-    "達": {
-      "ids": [
-        88
-      ],
-      "occasions": 1
-    },
-    "泊": {
-      "ids": [
-        87
-      ],
-      "occasions": 1
-    },
-    "故": {
-      "ids": [
-        147
-      ],
-      "occasions": 1
-    },
-    "優": {
-      "ids": [
-        52
-      ],
-      "occasions": 4
-    },
-    "早": {
-      "ids": [
-        15
-      ],
-      "occasions": 1
-    },
-    "片": {
-      "ids": [
-        66
-      ],
-      "occasions": 1
-    },
-    "糖": {
-      "ids": [
-        124
-      ],
-      "occasions": 3
-    },
-    "記": {
-      "ids": [
-        45
-      ],
-      "occasions": 1
-    },
-    "席": {
-      "ids": [
-        41
-      ],
-      "occasions": 2
-    },
-    "締": {
-      "ids": [
-        53
-      ],
-      "occasions": 3
-    },
-    "局": {
-      "ids": [
-        106
-      ],
-      "occasions": 1
-    },
-    "誰": {
-      "ids": [
-        146
-      ],
-      "occasions": 1
-    },
     "喫": {
       "ids": [
         128
       ],
-      "occasions": 3
+      "occasions": 4
     },
-    "難": {
+    "例": {
       "ids": [
-        30
+        5
       ],
       "occasions": 2
-    },
-    "奇": {
-      "ids": [
-        82
-      ],
-      "occasions": 2
-    },
-    "橋": {
-      "ids": [
-        97
-      ],
-      "occasions": 3
-    },
-    "初": {
-      "ids": [
-        95
-      ],
-      "occasions": 1
     },
     "便": {
       "ids": [
@@ -150,9 +18,9 @@
       ],
       "occasions": 1
     },
-    "暗": {
+    "髪": {
       "ids": [
-        118
+        75
       ],
       "occasions": 2
     },
@@ -162,71 +30,35 @@
       ],
       "occasions": 4
     },
-    "醤": {
+    "落": {
       "ids": [
-        126
+        140
       ],
       "occasions": 1
     },
-    "丘": {
+    "花": {
       "ids": [
-        143
+        10
+      ],
+      "occasions": 1
+    },
+    "暖": {
+      "ids": [
+        19
+      ],
+      "occasions": 1
+    },
+    "板": {
+      "ids": [
+        162
+      ],
+      "occasions": 1
+    },
+    "格": {
+      "ids": [
+        141
       ],
       "occasions": 3
-    },
-    "術": {
-      "ids": [
-        145
-      ],
-      "occasions": 1
-    },
-    "喉": {
-      "ids": [
-        73
-      ],
-      "occasions": 3
-    },
-    "送": {
-      "ids": [
-        23
-      ],
-      "occasions": 1
-    },
-    "完": {
-      "ids": [
-        0
-      ],
-      "occasions": 1
-    },
-    "確": {
-      "ids": [
-        136
-      ],
-      "occasions": 1
-    },
-    "守": {
-      "ids": [
-        123
-      ],
-      "occasions": 2
-    },
-    "黒": {
-      "ids": [
-        131
-      ],
-      "occasions": 1
-    },
-    "刻": {
-      "ids": [
-        120
-      ],
-      "occasions": 1
-    },
-    "備": {
-      "ids": [
-        9
-      ],
-      "occasions": 2
     },
     "準": {
       "ids": [
@@ -234,203 +66,11 @@
       ],
       "occasions": 2
     },
-    "南": {
-      "ids": [
-        134
-      ],
-      "occasions": 1
-    },
-    "碗": {
-      "ids": [
-        13
-      ],
-      "occasions": 2
-    },
-    "嬉": {
-      "ids": [
-        84
-      ],
-      "occasions": 2
-    },
-    "機": {
-      "ids": [
-        39
-      ],
-      "occasions": 1
-    },
-    "幹": {
-      "ids": [
-        119
-      ],
-      "occasions": 1
-    },
     "酸": {
       "ids": [
         57
       ],
-      "occasions": 3
-    },
-    "簡": {
-      "ids": [
-        55
-      ],
-      "occasions": 3
-    },
-    "黄": {
-      "ids": [
-        59
-      ],
-      "occasions": 2
-    },
-    "顔": {
-      "ids": [
-        47
-      ],
-      "occasions": 1
-    },
-    "狼": {
-      "ids": [
-        2
-      ],
-      "occasions": 2
-    },
-    "若": {
-      "ids": [
-        34
-      ],
-      "occasions": 3
-    },
-    "腹": {
-      "ids": [
-        31
-      ],
-      "occasions": 1
-    },
-    "研": {
-      "ids": [
-        129
-      ],
-      "occasions": 2
-    },
-    "寝": {
-      "ids": [
-        117
-      ],
-      "occasions": 2
-    },
-    "腕": {
-      "ids": [
-        79
-      ],
-      "occasions": 1
-    },
-    "肩": {
-      "ids": [
-        76
-      ],
       "occasions": 4
-    },
-    "宿": {
-      "ids": [
-        107
-      ],
-      "occasions": 2
-    },
-    "真": {
-      "ids": [
-        152
-      ],
-      "occasions": 1
-    },
-    "億": {
-      "ids": [
-        89
-      ],
-      "occasions": 1
-    },
-    "細": {
-      "ids": [
-        61
-      ],
-      "occasions": 2
-    },
-    "趣": {
-      "ids": [
-        133
-      ],
-      "occasions": 1
-    },
-    "落": {
-      "ids": [
-        140
-      ],
-      "occasions": 1
-    },
-    "郵": {
-      "ids": [
-        104
-      ],
-      "occasions": 1
-    },
-    "客": {
-      "ids": [
-        111
-      ],
-      "occasions": 1
-    },
-    "続": {
-      "ids": [
-        138
-      ],
-      "occasions": 1
-    },
-    "究": {
-      "ids": [
-        130
-      ],
-      "occasions": 3
-    },
-    "介": {
-      "ids": [
-        7
-      ],
-      "occasions": 2
-    },
-    "着": {
-      "ids": [
-        110
-      ],
-      "occasions": 1
-    },
-    "室": {
-      "ids": [
-        151
-      ],
-      "occasions": 1
-    },
-    "彼": {
-      "ids": [
-        144
-      ],
-      "occasions": 1
-    },
-    "終": {
-      "ids": [
-        18
-      ],
-      "occasions": 1
-    },
-    "掛": {
-      "ids": [
-        80
-      ],
-      "occasions": 3
-    },
-    "応": {
-      "ids": [
-        3
-      ],
-      "occasions": 2
     },
     "姪": {
       "ids": [
@@ -438,11 +78,35 @@
       ],
       "occasions": 2
     },
-    "住": {
+    "起": {
       "ids": [
-        139
+        101
       ],
       "occasions": 1
+    },
+    "送": {
+      "ids": [
+        23
+      ],
+      "occasions": 1
+    },
+    "狭": {
+      "ids": [
+        172
+      ],
+      "occasions": 1
+    },
+    "南": {
+      "ids": [
+        134
+      ],
+      "occasions": 1
+    },
+    "橋": {
+      "ids": [
+        97
+      ],
+      "occasions": 3
     },
     "面": {
       "ids": [
@@ -456,69 +120,39 @@
       ],
       "occasions": 1
     },
-    "援": {
+    "鉄": {
       "ids": [
-        4
+        149
       ],
       "occasions": 2
     },
-    "夏": {
+    "速": {
       "ids": [
-        98
+        14
       ],
       "occasions": 1
     },
-    "油": {
+    "優": {
       "ids": [
-        127
+        52
       ],
-      "occasions": 2
+      "occasions": 4
+    },
+    "醤": {
+      "ids": [
+        126
+      ],
+      "occasions": 1
+    },
+    "決": {
+      "ids": [
+        37
+      ],
+      "occasions": 1
     },
     "呼": {
       "ids": [
         63
-      ],
-      "occasions": 1
-    },
-    "髪": {
-      "ids": [
-        75
-      ],
-      "occasions": 2
-    },
-    "感": {
-      "ids": [
-        43
-      ],
-      "occasions": 1
-    },
-    "遠": {
-      "ids": [
-        17
-      ],
-      "occasions": 2
-    },
-    "園": {
-      "ids": [
-        150
-      ],
-      "occasions": 2
-    },
-    "紹": {
-      "ids": [
-        6
-      ],
-      "occasions": 3
-    },
-    "願": {
-      "ids": [
-        51
-      ],
-      "occasions": 2
-    },
-    "弾": {
-      "ids": [
-        100
       ],
       "occasions": 1
     },
@@ -528,75 +162,15 @@
       ],
       "occasions": 2
     },
-    "険": {
+    "暇": {
       "ids": [
-        114
-      ],
-      "occasions": 1
-    },
-    "数": {
-      "ids": [
-        42
+        148
       ],
       "occasions": 2
     },
-    "悲": {
+    "妻": {
       "ids": [
-        68
-      ],
-      "occasions": 3
-    },
-    "約": {
-      "ids": [
-        102
-      ],
-      "occasions": 4
-    },
-    "負": {
-      "ids": [
-        28
-      ],
-      "occasions": 1
-    },
-    "甥": {
-      "ids": [
-        135
-      ],
-      "occasions": 1
-    },
-    "磨": {
-      "ids": [
-        92
-      ],
-      "occasions": 2
-    },
-    "雲": {
-      "ids": [
-        49
-      ],
-      "occasions": 1
-    },
-    "仮": {
-      "ids": [
-        67
-      ],
-      "occasions": 1
-    },
-    "腰": {
-      "ids": [
-        65
-      ],
-      "occasions": 2
-    },
-    "末": {
-      "ids": [
-        109
-      ],
-      "occasions": 1
-    },
-    "勝": {
-      "ids": [
-        48
+        90
       ],
       "occasions": 2
     },
@@ -606,15 +180,27 @@
       ],
       "occasions": 2
     },
-    "歳": {
+    "葉": {
       "ids": [
-        99
+        94
       ],
       "occasions": 1
     },
-    "暇": {
+    "研": {
       "ids": [
-        148
+        129
+      ],
+      "occasions": 2
+    },
+    "危": {
+      "ids": [
+        113
+      ],
+      "occasions": 1
+    },
+    "直": {
+      "ids": [
+        24
       ],
       "occasions": 1
     },
@@ -624,17 +210,83 @@
       ],
       "occasions": 2
     },
-    "起": {
+    "単": {
       "ids": [
-        101
+        56
       ],
       "occasions": 1
     },
-    "履": {
+    "借": {
       "ids": [
-        96
+        169
+      ],
+      "occasions": 1
+    },
+    "奇": {
+      "ids": [
+        82
       ],
       "occasions": 2
+    },
+    "碗": {
+      "ids": [
+        13
+      ],
+      "occasions": 2
+    },
+    "背": {
+      "ids": [
+        108
+      ],
+      "occasions": 2
+    },
+    "麗": {
+      "ids": [
+        83
+      ],
+      "occasions": 3
+    },
+    "込": {
+      "ids": [
+        170
+      ],
+      "occasions": 1
+    },
+    "曇": {
+      "ids": [
+        166
+      ],
+      "occasions": 1
+    },
+    "続": {
+      "ids": [
+        138
+      ],
+      "occasions": 2
+    },
+    "戻": {
+      "ids": [
+        54
+      ],
+      "occasions": 3
+    },
+    "室": {
+      "ids": [
+        151
+      ],
+      "occasions": 1
+    },
+    "備": {
+      "ids": [
+        9
+      ],
+      "occasions": 2
+    },
+    "丘": {
+      "ids": [
+        143
+      ],
+      "occasions": 3
     },
     "庫": {
       "ids": [
@@ -642,15 +294,333 @@
       ],
       "occasions": 1
     },
-    "結": {
+    "販": {
       "ids": [
-        35
+        38
+      ],
+      "occasions": 1
+    },
+    "喋": {
+      "ids": [
+        164
+      ],
+      "occasions": 1
+    },
+    "線": {
+      "ids": [
+        29
+      ],
+      "occasions": 1
+    },
+    "磨": {
+      "ids": [
+        92
+      ],
+      "occasions": 2
+    },
+    "仮": {
+      "ids": [
+        67
+      ],
+      "occasions": 1
+    },
+    "席": {
+      "ids": [
+        41
+      ],
+      "occasions": 2
+    },
+    "片": {
+      "ids": [
+        66
+      ],
+      "occasions": 1
+    },
+    "機": {
+      "ids": [
+        39
+      ],
+      "occasions": 1
+    },
+    "終": {
+      "ids": [
+        18
+      ],
+      "occasions": 1
+    },
+    "末": {
+      "ids": [
+        109
+      ],
+      "occasions": 1
+    },
+    "意": {
+      "ids": [
+        154
+      ],
+      "occasions": 1
+    },
+    "黒": {
+      "ids": [
+        131
+      ],
+      "occasions": 1
+    },
+    "掛": {
+      "ids": [
+        80
       ],
       "occasions": 3
+    },
+    "宿": {
+      "ids": [
+        107
+      ],
+      "occasions": 2
+    },
+    "客": {
+      "ids": [
+        111
+      ],
+      "occasions": 1
+    },
+    "緒": {
+      "ids": [
+        161
+      ],
+      "occasions": 1
+    },
+    "勝": {
+      "ids": [
+        48
+      ],
+      "occasions": 2
+    },
+    "軽": {
+      "ids": [
+        25
+      ],
+      "occasions": 3
+    },
+    "寝": {
+      "ids": [
+        117
+      ],
+      "occasions": 2
+    },
+    "認": {
+      "ids": [
+        137
+      ],
+      "occasions": 2
+    },
+    "探": {
+      "ids": [
+        44
+      ],
+      "occasions": 5
+    },
+    "給": {
+      "ids": [
+        171
+      ],
+      "occasions": 1
+    },
+    "腹": {
+      "ids": [
+        31
+      ],
+      "occasions": 1
+    },
+    "婚": {
+      "ids": [
+        36
+      ],
+      "occasions": 3
+    },
+    "彼": {
+      "ids": [
+        144
+      ],
+      "occasions": 1
+    },
+    "筆": {
+      "ids": [
+        157
+      ],
+      "occasions": 1
+    },
+    "欲": {
+      "ids": [
+        21
+      ],
+      "occasions": 3
+    },
+    "援": {
+      "ids": [
+        4
+      ],
+      "occasions": 2
+    },
+    "険": {
+      "ids": [
+        114
+      ],
+      "occasions": 1
+    },
+    "趣": {
+      "ids": [
+        133
+      ],
+      "occasions": 2
+    },
+    "考": {
+      "ids": [
+        22
+      ],
+      "occasions": 1
+    },
+    "嫌": {
+      "ids": [
+        72
+      ],
+      "occasions": 1
+    },
+    "夏": {
+      "ids": [
+        98
+      ],
+      "occasions": 1
+    },
+    "紙": {
+      "ids": [
+        50
+      ],
+      "occasions": 1
+    },
+    "細": {
+      "ids": [
+        61
+      ],
+      "occasions": 2
+    },
+    "留": {
+      "ids": [
+        60
+      ],
+      "occasions": 1
+    },
+    "遅": {
+      "ids": [
+        16
+      ],
+      "occasions": 2
+    },
+    "肩": {
+      "ids": [
+        76
+      ],
+      "occasions": 4
+    },
+    "幹": {
+      "ids": [
+        119
+      ],
+      "occasions": 1
+    },
+    "腰": {
+      "ids": [
+        65
+      ],
+      "occasions": 2
+    },
+    "甥": {
+      "ids": [
+        135
+      ],
+      "occasions": 1
+    },
+    "渇": {
+      "ids": [
+        74
+      ],
+      "occasions": 2
+    },
+    "億": {
+      "ids": [
+        89
+      ],
+      "occasions": 1
+    },
+    "合": {
+      "ids": [
+        142
+      ],
+      "occasions": 2
+    },
+    "孫": {
+      "ids": [
+        116
+      ],
+      "occasions": 1
+    },
+    "身": {
+      "ids": [
+        153
+      ],
+      "occasions": 1
+    },
+    "注": {
+      "ids": [
+        155
+      ],
+      "occasions": 1
+    },
+    "感": {
+      "ids": [
+        43
+      ],
+      "occasions": 1
+    },
+    "鉛": {
+      "ids": [
+        156
+      ],
+      "occasions": 2
     },
     "束": {
       "ids": [
         103
+      ],
+      "occasions": 1
+    },
+    "具": {
+      "ids": [
+        168
+      ],
+      "occasions": 1
+    },
+    "暗": {
+      "ids": [
+        118
+      ],
+      "occasions": 2
+    },
+    "黄": {
+      "ids": [
+        59
+      ],
+      "occasions": 2
+    },
+    "若": {
+      "ids": [
+        34
+      ],
+      "occasions": 3
+    },
+    "真": {
+      "ids": [
+        152
       ],
       "occasions": 1
     },
@@ -660,17 +630,11 @@
       ],
       "occasions": 1
     },
-    "妻": {
+    "喉": {
       "ids": [
-        90
+        73
       ],
-      "occasions": 2
-    },
-    "遅": {
-      "ids": [
-        16
-      ],
-      "occasions": 2
+      "occasions": 3
     },
     "荷": {
       "ids": [
@@ -678,11 +642,95 @@
       ],
       "occasions": 1
     },
-    "鼻": {
+    "咲": {
       "ids": [
-        77
+        165
+      ],
+      "occasions": 1
+    },
+    "早": {
+      "ids": [
+        15
+      ],
+      "occasions": 1
+    },
+    "着": {
+      "ids": [
+        110
+      ],
+      "occasions": 1
+    },
+    "弾": {
+      "ids": [
+        100
+      ],
+      "occasions": 1
+    },
+    "応": {
+      "ids": [
+        3
       ],
       "occasions": 2
+    },
+    "術": {
+      "ids": [
+        145
+      ],
+      "occasions": 2
+    },
+    "負": {
+      "ids": [
+        28
+      ],
+      "occasions": 1
+    },
+    "眠": {
+      "ids": [
+        122
+      ],
+      "occasions": 1
+    },
+    "顔": {
+      "ids": [
+        47
+      ],
+      "occasions": 1
+    },
+    "歳": {
+      "ids": [
+        99
+      ],
+      "occasions": 2
+    },
+    "夜": {
+      "ids": [
+        11
+      ],
+      "occasions": 1
+    },
+    "部": {
+      "ids": [
+        78
+      ],
+      "occasions": 2
+    },
+    "難": {
+      "ids": [
+        30
+      ],
+      "occasions": 2
+    },
+    "結": {
+      "ids": [
+        35
+      ],
+      "occasions": 3
+    },
+    "糖": {
+      "ids": [
+        124
+      ],
+      "occasions": 3
     },
     "温": {
       "ids": [
@@ -696,9 +744,69 @@
       ],
       "occasions": 4
     },
-    "娘": {
+    "狼": {
       "ids": [
-        32
+        2
+      ],
+      "occasions": 2
+    },
+    "誰": {
+      "ids": [
+        146
+      ],
+      "occasions": 1
+    },
+    "刻": {
+      "ids": [
+        120
+      ],
+      "occasions": 1
+    },
+    "置": {
+      "ids": [
+        58
+      ],
+      "occasions": 1
+    },
+    "達": {
+      "ids": [
+        88
+      ],
+      "occasions": 2
+    },
+    "性": {
+      "ids": [
+        160
+      ],
+      "occasions": 1
+    },
+    "遠": {
+      "ids": [
+        17
+      ],
+      "occasions": 2
+    },
+    "美": {
+      "ids": [
+        69
+      ],
+      "occasions": 3
+    },
+    "悲": {
+      "ids": [
+        68
+      ],
+      "occasions": 3
+    },
+    "故": {
+      "ids": [
+        147
+      ],
+      "occasions": 1
+    },
+    "郵": {
+      "ids": [
+        104
       ],
       "occasions": 1
     },
@@ -708,27 +816,105 @@
       ],
       "occasions": 1
     },
-    "孫": {
+    "死": {
       "ids": [
-        116
+        12
       ],
       "occasions": 1
     },
-    "探": {
+    "記": {
       "ids": [
-        44
+        45
       ],
-      "occasions": 5
+      "occasions": 1
     },
-    "愛": {
+    "鼻": {
       "ids": [
-        1
+        77
       ],
       "occasions": 2
     },
-    "格": {
+    "履": {
       "ids": [
-        141
+        96
+      ],
+      "occasions": 3
+    },
+    "息": {
+      "ids": [
+        33
+      ],
+      "occasions": 1
+    },
+    "奥": {
+      "ids": [
+        40
+      ],
+      "occasions": 2
+    },
+    "初": {
+      "ids": [
+        95
+      ],
+      "occasions": 1
+    },
+    "油": {
+      "ids": [
+        127
+      ],
+      "occasions": 2
+    },
+    "願": {
+      "ids": [
+        51
+      ],
+      "occasions": 2
+    },
+    "介": {
+      "ids": [
+        7
+      ],
+      "occasions": 2
+    },
+    "腕": {
+      "ids": [
+        79
+      ],
+      "occasions": 1
+    },
+    "雲": {
+      "ids": [
+        49
+      ],
+      "occasions": 1
+    },
+    "究": {
+      "ids": [
+        130
+      ],
+      "occasions": 3
+    },
+    "締": {
+      "ids": [
+        53
+      ],
+      "occasions": 4
+    },
+    "親": {
+      "ids": [
+        93
+      ],
+      "occasions": 1
+    },
+    "局": {
+      "ids": [
+        106
+      ],
+      "occasions": 1
+    },
+    "園": {
+      "ids": [
+        150
       ],
       "occasions": 2
     },
@@ -744,137 +930,29 @@
       ],
       "occasions": 2
     },
-    "単": {
+    "辛": {
       "ids": [
-        56
+        158
       ],
       "occasions": 1
     },
-    "戻": {
+    "守": {
       "ids": [
-        54
+        123
+      ],
+      "occasions": 2
+    },
+    "完": {
+      "ids": [
+        0
+      ],
+      "occasions": 1
+    },
+    "簡": {
+      "ids": [
+        55
       ],
       "occasions": 3
-    },
-    "嫌": {
-      "ids": [
-        72
-      ],
-      "occasions": 1
-    },
-    "軽": {
-      "ids": [
-        25
-      ],
-      "occasions": 2
-    },
-    "考": {
-      "ids": [
-        22
-      ],
-      "occasions": 1
-    },
-    "背": {
-      "ids": [
-        108
-      ],
-      "occasions": 2
-    },
-    "息": {
-      "ids": [
-        33
-      ],
-      "occasions": 1
-    },
-    "眠": {
-      "ids": [
-        122
-      ],
-      "occasions": 1
-    },
-    "認": {
-      "ids": [
-        137
-      ],
-      "occasions": 1
-    },
-    "死": {
-      "ids": [
-        12
-      ],
-      "occasions": 1
-    },
-    "親": {
-      "ids": [
-        93
-      ],
-      "occasions": 1
-    },
-    "夜": {
-      "ids": [
-        11
-      ],
-      "occasions": 1
-    },
-    "婚": {
-      "ids": [
-        36
-      ],
-      "occasions": 3
-    },
-    "葉": {
-      "ids": [
-        94
-      ],
-      "occasions": 1
-    },
-    "麗": {
-      "ids": [
-        83
-      ],
-      "occasions": 3
-    },
-    "置": {
-      "ids": [
-        58
-      ],
-      "occasions": 1
-    },
-    "販": {
-      "ids": [
-        38
-      ],
-      "occasions": 1
-    },
-    "渇": {
-      "ids": [
-        74
-      ],
-      "occasions": 2
-    },
-    "暖": {
-      "ids": [
-        19
-      ],
-      "occasions": 1
-    },
-    "危": {
-      "ids": [
-        113
-      ],
-      "occasions": 1
-    },
-    "部": {
-      "ids": [
-        78
-      ],
-      "occasions": 2
-    },
-    "授": {
-      "ids": [
-        70
-      ],
-      "occasions": 2
     },
     "胸": {
       "ids": [
@@ -882,44 +960,86 @@
       ],
       "occasions": 1
     },
-    "例": {
+    "紹": {
       "ids": [
-        5
-      ],
-      "occasions": 2
-    },
-    "奥": {
-      "ids": [
-        40
-      ],
-      "occasions": 2
-    },
-    "欲": {
-      "ids": [
-        21
+        6
       ],
       "occasions": 3
     },
-    "留": {
+    "愛": {
       "ids": [
-        60
+        1
+      ],
+      "occasions": 2
+    },
+    "住": {
+      "ids": [
+        139
       ],
       "occasions": 1
     },
-    "美": {
+    "写": {
       "ids": [
-        69
+        167
+      ],
+      "occasions": 1
+    },
+    "授": {
+      "ids": [
+        70
+      ],
+      "occasions": 2
+    },
+    "娘": {
+      "ids": [
+        32
+      ],
+      "occasions": 1
+    },
+    "嬉": {
+      "ids": [
+        84
+      ],
+      "occasions": 2
+    },
+    "数": {
+      "ids": [
+        42
+      ],
+      "occasions": 2
+    },
+    "緑": {
+      "ids": [
+        163
+      ],
+      "occasions": 1
+    },
+    "約": {
+      "ids": [
+        102
+      ],
+      "occasions": 4
+    },
+    "確": {
+      "ids": [
+        136
       ],
       "occasions": 3
     },
-    "合": {
+    "派": {
       "ids": [
-        142
+        159
       ],
-      "occasions": 2
+      "occasions": 1
+    },
+    "泊": {
+      "ids": [
+        87
+      ],
+      "occasions": 1
     }
   },
-  "current_id": 153,
+  "current_id": 173,
   "kanji_per_row": 18,
   "rows_per_page": 29
 }
